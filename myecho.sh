@@ -1,4 +1,3 @@
 #!/bin/sh
 
-echo 'hello'
-echo 'there'
+echo 'hello there'
